@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "886691467656",
+    "project_id": "lawn-5201c",
+    "storage_bucket": "lawn-5201c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886691467656:android:0b820c0089d3f6b38eea3d",
+        "android_client_info": {
+          "package_name": "com.example.product_mughees"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkwUSCrF3m9faiqCNIXA76lEHHSwyAAcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

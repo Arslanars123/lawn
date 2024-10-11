@@ -1,0 +1,40 @@
+name: product_mughees
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+
+  # Adding photo_view package for image zoom functionality
+  photo_view: ^0.14.0
+  widget_zoom: ^0.0.4
+  http: ^0.13.5
+  url_launcher: ^6.1.7
+  google_sign_in: ^5.4.2
+  firebase_core: ^3.6.0
+  shared_preferences: ^2.0.0  # Check for the latest version
+
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  # assets:
+  #   - images/a_dot_burr.jpeg
+  #   - images/a_dot_ham.jpeg
